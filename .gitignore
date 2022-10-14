@@ -1,0 +1,11 @@
+checkpoint/
+results/
+log/
+output/
+.idea/
+*.tar.gz
+*.zip
+*.pkl
+*.pyc
+*.png
+*.jpg
